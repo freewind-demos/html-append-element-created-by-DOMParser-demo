@@ -1,8 +1,8 @@
-Html Hello World Demo
+Html Append Element Created by DOMParser Demo
 =====================
 
-```
-open index.html
-```
+由DOMParser生成的element可以正确的append到需要的地方，哪怕是另一个iframe中
 
-You will see `Hello, World!` on page.
+```
+npm run demo
+```
